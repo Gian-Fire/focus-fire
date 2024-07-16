@@ -1,0 +1,11 @@
+{
+	"name": "Focus Fire!",
+	"description": "Extension that restricts your access to websites unless you solve a coding question. Don't forget your ABCs: Always Be Coding",
+	"version": "1.0",
+	"manifest_version": 3,
+	"options_page": "options.html",
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "fireball.png"
+	}
+}
